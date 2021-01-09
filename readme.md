@@ -46,9 +46,9 @@ Please make sure to update tests as appropriate.
 
 ## Contributers
 [Mohamed Moumen](https://github.com/MohamedMoumen)
-[Mostafa Amar](https://github.com/Hazem-Akram)
+[Mostafa Amar](https://github.com/MostafaAmar)
 [Mohamed Abd-Elaal](https://github.com/salahmansour9900)
-[Hazem Akram](https://github.com/Hazem-Akram)
+[Hazem Akram](https://github.com/hazemAkram99)
 [Salah Mohamed](https://github.com/salahmansour9900)
 
 
